@@ -18,7 +18,3 @@ npm install
 # build the app
 npm run electron-build
 ```
-
-## Lessons and Screencasts
-
-Learn how to bulid this [Angular Electron](https://angularfirebase.com/lessons/desktop-apps-with-electron-and-angular/) project step-by-step. 
